@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InternalizacionEjemplo</string>
+    <string name="ejecutar">Ejecutar</string>
+    <string name="hola">Hola</string>
+</resources>
