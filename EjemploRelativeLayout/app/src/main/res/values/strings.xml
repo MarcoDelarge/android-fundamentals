@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EjemploRelativeLayout</string>
+    <string name="btn_okay">OKAY</string>
+    <string name="btnTopText">BTN</string>
+    <string name="textviewLinearText">TextView</string>
+</resources>

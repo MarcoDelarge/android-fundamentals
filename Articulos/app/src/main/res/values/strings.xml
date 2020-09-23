@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Articulos</string>
+    <string name="articulo_titulo">Articulo Universal</string>
+    <string name="contenido_art">
+        Por primera vez en su historia, la Universidad Nacional Autónoma de México (UNAM) arrancará su ciclo escolar vía remota, esto quiere decir: sin alumnos en sus aulas.
+
+A causa de la pandemia por coronavirus, sus espacios de estudio están cerrados desde marzo pasado y podrían mantenerse así por lo que resta del año.
+
+El secretario general de la institución, Leonardo Lomelí Vanegas, dijo a EL UNIVERSAL que en lo que resta de este año, lo más probable es que no se registre un regreso a las actividades semipresenciales o presenciales, aunque no se descartan; en la medida en que la epidemia evolucione, el regreso tendría que ser planeado y sólo con un tercio de la población escolar. En un primer cálculo, esto hubiera ocurrido hoy 21 de septiembre.
+
+El proyecto que el pasado 17 de junio presentó la Comisión Especial de Seguridad del Consejo Universitario incluía instalar filtros para detectar a personas contagiadas, limitar el aforo de estudiantes en los salones hasta 50% y mantener la sana distancia.
+
+A tres meses de esa última propuesta, la Universidad comunicó de manera oficial su decisión de que las clases del ciclo escolar 2020-2021 continuarán a distancia y así se iniciará el semestre para sus cerca de 350 mil estudiantes.
+    </string>
+    <string name="subart_name">UNAM arranca su ciclo 2020-21 a distancia</string>
+</resources>
